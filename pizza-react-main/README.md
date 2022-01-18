@@ -1,6 +1,5 @@
 ## 🍕 Pizza React project | Hooks, localStorage, No responsive
 
-# Video darslik:
 
 
 # Demo:
